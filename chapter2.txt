@@ -1,0 +1,2 @@
+In a computer network, servers are used to manage network resources and provide various services, such as file storage, email, 
+printing, and website hosting.

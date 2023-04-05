@@ -1,0 +1,3 @@
+Servers are typically more powerful and have more storage capacity than regular computers, 
+and they are designed to handle requests from multiple 
+clients simultaneously.
