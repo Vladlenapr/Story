@@ -1,0 +1,2 @@
+A server is a computer system or program that provides functionality or services to other computers or programs, 
+often referred to as clients. The term "server" can refer to both the hardware and software components of the system.
